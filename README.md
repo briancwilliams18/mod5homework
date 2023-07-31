@@ -22,6 +22,6 @@ website is live : https://briancwilliams18.github.io/mod5homework/
 github : https://github.com/briancwilliams18/mod5homework
 
 
-<img scr="Assets\Screenshot 1.png" alt="screenshot day planner">
+<img src="Assets\Screenshot 1.png" alt="screenshot day planner">
 
-<img scr="Assets\Screenshot 2.png" alt="screenshot day planner two">
+<img src="Assets\Screenshot 2.png" alt="screenshot day planner two">
